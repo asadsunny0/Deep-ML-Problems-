@@ -6,7 +6,7 @@
 
 | SL | Title | Solution | Difficulty | Category |
 |---|-------|----------|------------| ---------- |
-| 1296 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | [Python](./solutions/divide_array_k_consecutive.py) | Medium | Linear Algebra |
+| 1296 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | [Python](./solutions/divide_array_k_consecutive.py) | Easy | Linear Algebra |
 
 
 ---
