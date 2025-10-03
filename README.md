@@ -6,7 +6,7 @@
 
 | SL | Title | Solution | Difficulty | Category |
 |---|-------|----------|------------| ---------- |
-| 1296 | [Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/) | [Python](./solutions/divide_array_k_consecutive.py) | Medium | Linear Algebra |
+| 1296 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | [Python](./solutions/divide_array_k_consecutive.py) | Medium | Linear Algebra |
 
 
 ---
