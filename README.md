@@ -1,4 +1,4 @@
-# Python solutions of problems from [Deep-ML](https://www.deep-ml.com/)
+## Python solutions of problems from [Deep-ML](https://www.deep-ml.com/)
 
 ---
 
