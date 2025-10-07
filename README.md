@@ -2,7 +2,6 @@
 
 ---
 
-### Problems 1100-1200
 
 | SL | Title | Solution | Difficulty | Category |
 |---|-------|----------|------------| ---------- |
